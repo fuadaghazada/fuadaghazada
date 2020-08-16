@@ -1,4 +1,4 @@
-### Hello World 👋 [visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https://api.countapi.xyz/hit/github.comfuadaghazada)
+### Hello World 👋 [visitors](https://img.shields.io/badge/dynamic/json?label=visitor&query=value&url=https://api.countapi.xyz/hit/github.com/fuadaghazada)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fuadaghazada&show_icons=true&count_private=true" />
