@@ -6,11 +6,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fuadaghazada&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadaghazada&hide=jupyter%20notebook,java" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadaghazada&hide=jupyter%20notebook,java" />
 </a>
 
 
-![LinkedId](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)(https://www.linkedin.com/in/fuad-aghazada-64a815148/)
+[![LinkedId](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/fuad-aghazada-64a815148/)
 
 <!--
 **fuadaghazada/fuadaghazada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
