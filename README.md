@@ -10,6 +10,8 @@
 </a>
 
 
+![LinkedId](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)(https://www.linkedin.com/in/fuad-aghazada-64a815148/)
+
 <!--
 **fuadaghazada/fuadaghazada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
