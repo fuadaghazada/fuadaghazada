@@ -2,6 +2,9 @@
 
 ![visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ffuadaghazada&label=visitors&query=value&color=blue)
 
+[comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadaghazada&label=Profile%20views&color=0e75b6&style=flat" alt="fuadaghazada" /> </p>)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuadaghazada&theme=monokai" alt="fuadaghazada" /></a> </p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fuadaghazada&show_icons=true&count_private=true" />
 </a>
