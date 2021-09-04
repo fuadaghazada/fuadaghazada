@@ -12,6 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadaghazada&hide=jupyter%20notebook,java" />
 </a>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fuadaghazada&theme=tokyonight" alt="fuadaghazada" /></p>
 
 [![LinkedId](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/fuad-aghazada-64a815148/)
 
